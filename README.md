@@ -9,8 +9,8 @@ Em construção...
 
 # 📊 GitHub Stats:
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=fritzgaldino&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)"/>
-<img height = "200em" src="https://github-readme-streak-stats.herokuapp.com/?user=fritzgaldino&theme=dracula&hide_border=false)"/>
+<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=fritzgaldino&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)"/>
+<img height = "150em" src="https://github-readme-streak-stats.herokuapp.com/?user=fritzgaldino&theme=dracula&hide_border=false)"/>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzgaldino&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
